@@ -19,4 +19,4 @@ and the tracker is at `https://your.server.com/seen.php`
 - The tracker redirects the client to the actual image
 - The image is displayed as if it was loaded without the tracker
 
-Seen is a bare implementation of such a redirect based image tracker.
+Seen is a bare implementation of such a redirection based image tracker.
