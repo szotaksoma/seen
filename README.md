@@ -1,2 +1,2 @@
 # Seen
-## A tiny image tracker
+## A tiny image tracker written in PHP
