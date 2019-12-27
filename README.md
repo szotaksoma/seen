@@ -1,11 +1,10 @@
 # Seen - a tiny PHP image tracker
 
-<img align="left" width="360" src="https://seen.datapp.tech/seen.php?image=images/graphic.png">
-<br/><br/><br/>
-When an image embedded in an email or a website (or this very README page) is displayed to the user, it is most of the times being downloaded from an off-site source by the client (browser) as the page itself loads.
-<br/><br/>
+<!--img align="left" width="300" src="https://seen.datapp.tech/seen.php?image=images/graphic.png"-->
+
+When an image embedded in an email or a website is displayed to the user, it is most of the times being downloaded from an off-site source by the client (browser) as the page itself loads.
+
 Thanks to this behavior, it is possible to keep track of when and where images were loaded (or when emails were read) simply by inserting a tracker script in the middle.
-<br/><br/><br/><br/><br/>
 
 **An example of a tracking snippet:**
 
